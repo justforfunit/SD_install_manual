@@ -103,7 +103,7 @@ https://huggingface.co/runwayml/stable-diffusion-v1-5/resolve/main/v1-5-pruned-e
 
 # Видеоинструкция по установке SD:
 
-*ссылка будет немного позже*
+[![youtube_manual](pictures/10.jpg)](https://www.youtube.com/watch?v=IiZ359xZa0I)
 
 
 ## Готовые модели:
